@@ -1,0 +1,35 @@
+input{
+  border-radius: 2px;
+  -webkit-appearance:none;
+  border:1px solid #ccc;
+  padding: 7px;
+  box-shadow: 1px 1px 0 rgb(101, 94, 94),
+              2px 2px 0 rgb(101, 94, 94),
+              3px 3px 0 rgb(101, 94, 94),
+              4px 4px 0 rgb(101, 94, 94),
+              5px 5px 0 rgb(101, 94, 94);
+}
+
+label{
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.text-center{
+  text-align: center;
+}
+
+#contenedor{
+  margin-top: 30px;
+}
+
+.contenedor-imagen{
+  width: 425px;
+  height: 450px;
+  display: inline-block;
+  margin: 0 10px 20px 10px;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+}
